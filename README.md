@@ -133,7 +133,7 @@ It should look like this:
 
 ##### Add the image to the Library
 
-Now select the `Reference Image Library` we made earlier and then drag + drop the image into the slot we made earlier, and give it a suitable name like `frog` , so it looks like this:
+Now select the `Reference Image Library` we made earlier and then drag + drop the image into the slot we made earlier, and give it a suitable name like `frog`. Then tick the `keep texture at runtime` as well:
 
 ![](imgs/lib+img%20added.png)
 
